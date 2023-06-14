@@ -1,7 +1,8 @@
 # flutter_nv1
 
 https://www.youtube.com/watch?v=f6-VUdo8MBs&list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S&index=9
-
+Este projeto é uma junção de todas aulas do curso: FLUTTER NV1 do Prof Deivid Willyan até a aula [21], link: https://www.youtube.com/watch?v=Tzew9MjuUME&list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S&index=43
+obs: NÃO É UM MODELO DE PROJETO.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
